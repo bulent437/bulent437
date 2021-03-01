@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey sen! oradaki, burda ne işin var? Burası benim yerim. Ben kim miyim?
+Selamlaar ben Bülent, Yusuf Bülent.
+Seni tanıyor gibiyim bana Bülent diye hitap edebilirsin. 
 
 <!--
 **bulent437/bulent437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
