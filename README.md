@@ -1,6 +1,8 @@
-## Hey sen! oradaki, burda ne işin var? Burası benim yerim. Ben kim miyim?
-#### Selamlaar ben Bülent, Yusuf Bülent.
-#### Seni tanıyor gibiyim bana Bülent diye hitap edebilirsin. 
+### Hey sen! oradaki, burası benim yerim. Ben kim miyim?
+- Selamlaar :hand: ben Bülent, Yusuf Bülent.
+- Seni tanıyor gibiyim, bana Bülent diye hitap edebilirsin. 
+En çok kullandığım ve sevdiğim dil ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=white) ama sanma ki sadece bunula kaldım. Doyumsuz öğrenme isteğim bana hep daha daha diye direttiği için her durağa uğradım. Şuraya baksana:
+
 
 <!--
 **bulent437/bulent437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
