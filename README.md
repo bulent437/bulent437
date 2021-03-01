@@ -2,7 +2,7 @@
 - Selamlaar :hand: Seni tanıyor gibiyim, bana Bülent diye hitap edebilirsin. 
 
 En çok kullandığım ve sevdiğim dil ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=white) ama sanma ki sadece bunula kaldım. Doyumsuz öğrenme isteğim bana hep daha daha diye direttiği için her durağa uğradım. Şuraya baksana:
-![Pthon](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
+![paytın](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
 
 
 <!--
