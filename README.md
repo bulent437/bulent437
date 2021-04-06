@@ -11,7 +11,7 @@ En çok kullandığım ve sevdiğim dil ![CSharp](https://img.shields.io/badge/-
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=flat)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=flat)
 
-C# geliştirmelerimi ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=Visual%20Studio&logoColor=white&style=flat) üzerinde yapıyorum. Diğerlerinde ise yardımıma ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20CODE&logoColor=white&style=flat) koşuyor. Bu aralar ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=flat) ile geliştirmeler yaptığım için de ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white&style=flat) kullanıyorum
+C# geliştirmelerimi ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=Visual%20Studio&logoColor=white&style=flat) üzerinde yapıyorum. Diğerlerinde ise yardımıma ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20CODE&logoColor=white&style=flat) koşuyor. Bu aralar ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=flat) ile geliştirmeler yapıyorum.
 
 <!--
 **bulent437/bulent437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
